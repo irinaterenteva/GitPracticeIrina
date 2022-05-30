@@ -7,6 +7,7 @@ public class Intro {
         //syntax String  any method
         String srs = "Java";
         System.out.println("srs.toLowerCase() = " + srs.toLowerCase());
+// abc
 
     }
 }
