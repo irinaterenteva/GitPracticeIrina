@@ -9,6 +9,7 @@ public class Intro {
         System.out.println("srs.toLowerCase() = " + srs.toLowerCase());
 // abc
 //another string method
+String srs2 = "Fixed problem";
 
     }
 }
